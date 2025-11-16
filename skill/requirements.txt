@@ -1,0 +1,6 @@
+# No external dependencies required
+# excel_to_i18n_json.py uses Python standard library only:
+# - zipfile (built-in)
+# - xml.etree.ElementTree (built-in)
+# - json (built-in)
+# - typing (built-in)
